@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
 **ninhtq97/ninhtq97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+<a href="https://github.com/ninhtq97">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ninhtq97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ninhtq97&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
